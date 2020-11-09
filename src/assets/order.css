@@ -1,0 +1,29 @@
+.orderDetail {
+    display: flex;
+}
+
+.b86_order {
+    width: 50%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.b86_order_image {
+    width: 100%;
+    max-width: 300px;
+}
+
+.informationOrder {
+    width: 50%;
+    max-width: 400px;
+}
+
+.back {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    border-radius: 5px;
+}

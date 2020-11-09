@@ -1,0 +1,33 @@
+.products {
+    display: flex;
+}
+.b86 {
+    width: 50%;
+    text-align: center;
+}
+.b86s {
+    width: 50%;
+    text-align: center;
+}
+.b86-den {
+    width: 100%;
+    max-width: 300px;
+    margin-top: 30px;
+}
+.b86-hong {
+    width: 100%;
+    max-width: 300px;
+    margin-top: 30px;
+}
+.price {
+    color: #e35b00;
+}
+.order {
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+    background-color: #e35b00;
+    border-radius: 10px solid #e35b00;
+    border: 1px solid #e35b00;
+    border-radius: 5px;
+}
